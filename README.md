@@ -5,8 +5,11 @@
 
 <p align="center">OpenWeather is a project created by Abdul Jaleel initially as an One-Day-Challange, then I'm making this public so that any one can get benefit from it.</p>
 
+<p align="center">OpenWeather is a project created by Abdul Jaleel initially as an One-Day-Challange, then I'm making this public so that any one can get benefit from it.</p>
 ---
-
+<div class="info">
+  <p><strong>Info!</strong> Since this is single page application with very little to no nested components that requires props. So we are not depending upon state management redux or context api etc we are purely using hooks</p>
+</div>
 ## Table of Contents
 
 <ul>
@@ -130,3 +133,10 @@ Open Weather on Other Platforms:
 ---
 
 Made with ♥ Enjoy it!
+<style>
+
+.info {
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
+</style>
