@@ -124,8 +124,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Open Weather on Other Platforms:
 
-- Android: https://github.com/lucasmontano/openweathermap
-- iOS: https://github.com/lucasmontano/openweathermap-ios
+- Android: 
+- iOS:
 
 ---
 
